@@ -1,0 +1,28 @@
+{
+  "name": "node-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vjancik/node-experiments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vjancik/node-experiments/issues"
+  },
+  "homepage": "https://github.com/vjancik/node-experiments#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "throng": "^2.0.1"
+  },
+  "engines": {
+    "node": "4.4.1"
+  }
+}
